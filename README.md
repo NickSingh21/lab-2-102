@@ -19,7 +19,7 @@ Users can view posts they've created in their feed.
 
 
 
-https://github.com/NickSingh21/lab-2-102/blob/main/Screen-Recording-2024-09-11T00_00_59.159Z2-ezgif.com-video-to-gif-converter.gif
+(https://github.com/NickSingh21/lab-2-102/blob/main/Screen-Recording-2024-09-11T00_48_37.390Z-ezgif.com-video-to-gif-converter.gif)
 
 
 
